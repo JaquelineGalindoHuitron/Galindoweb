@@ -1,2 +1,2 @@
-# GalindoJweb
-pagina web del profe Nava del alumno Galindo Huitrón Jaqueline
+# Galindoweb
+pagina web del profe Nava de la alumna Galindo Huitrón Jaqueline
