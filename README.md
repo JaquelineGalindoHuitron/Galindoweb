@@ -1,2 +1,2 @@
 # Galindoweb
-pagina web de la alumna Galindo Huitrón Jaqueline
+pagina web del alumno Galindo Huitrón Jaqueline
